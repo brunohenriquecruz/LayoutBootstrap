@@ -9,12 +9,21 @@
 }
 
 .footer{
-    background-color:#e6e6e6;
+    background-color:#f3f9fc;
     padding-top: 20px;
 }
 
+.body{
+    background-color:#fcfcfc;
+}
+
+.marginBorder{
+    margin-left: 5px;
+    margin-right: 5px
+}
+
 .header{
-    background-color:#e6e6e6;
+    background-color:#f3f9fc;
 }
 
 .logo{
